@@ -13,7 +13,7 @@ Feature: TestHeaven Login
     And  I click on Password box and add a password
     And  I click on Confirm Password box and I confirm password
     And  I click on Sing up box
-    Then  I create  a new account successfully
+    Then  I create a new account successfully
 
 
 
